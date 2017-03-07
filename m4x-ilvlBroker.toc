@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: m4x ilvlBroker
+## Notes: What's my ilvl?
+## Author: m4xc4v413r4
+## Version: @project-version@
+
+m4x-ilvlBroker.lua
