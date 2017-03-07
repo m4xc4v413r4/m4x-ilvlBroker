@@ -10,6 +10,6 @@ frame:RegisterEvent("PLAYER_EQUIPMENT_CHANGED");
 
 frame:SetScript("OnEvent", function(self, event, ...)
     local avgilvl, avgilvlEquip = GetAverageItemLevel();
-    m4xilvlData.text = string.format("%d", avgilvlEquip);
-    m4xilvlData.value = string.format("%d (%d)", avgilvlEquip, avgilvl);
+    m4xilvlData.value = string.format("%d", avgilvlEquip);
+    m4xilvlData.text = string.format("%d (%d)", avgilvlEquip, avgilvl);
 end);
