@@ -1,3 +1,7 @@
+## v1.1.1 - 2017-03-29
+### Changed
+- TOC version for 7.2
+
 ## v1.1 - 2017-03-11
 ### Changed
 - Almost complete rewrite of the addon
